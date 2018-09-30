@@ -1,0 +1,7 @@
+.DayForecast {
+  max-width: 20em;
+  border: 1px solid #ccc;
+  padding: 6px;
+  margin-top: 6px;
+  margin-bottom: 6px;
+}

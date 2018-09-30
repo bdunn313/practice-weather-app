@@ -22,8 +22,8 @@ export type WeatherIconString =
 
 export interface WeatherIconProps {
   name?: WeatherIconString;
-  width?: number;
-  height?: number;
+  width?: number | string;
+  height?: number | string;
 }
 
 // Probably the wrong way to do this
